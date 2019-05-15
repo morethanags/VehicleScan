@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Vehicle Control</string>
+    <string name="plate">Plate: </string>
+    <string name="contractor">Contractor: </string>
+    <string name="category">Category: </string>
+    <string name="type">Type: </string>
+    <!--<string name="operator">Operator: </string>-->
+    <string name="scan">Scan</string>
+    <string name="check">Check</string>
+    <string name="clear">Clear</string>
+    <string name="company">Company: </string>
+    <string name="ownershipcard">Ownership Card:</string>
+    <string name="maker">Manufacturer: </string>
+    <string name="model">Model: </string>
+    <string name="year">Year: </string>
+
+    <string name="colour">Colour: </string>
+
+    <string name="securitylapproval">Security:</string>
+    <string name="environmentalapproval">Environmental:</string>
+    <string name="safetyapproval">Safety:</string>
+
+    <string name="technicalinspection">Technical Inspection: </string>
+    <!--<string name="emissioncertificate">Emission Certificate: </string>-->
+
+    <string name="insurances">Insurances &amp; Documents</string>
+    <string name="approvals">Approvals</string>
+
+    <string name="vehicularinsurance">Insurance:</string>
+    <string name="soat">SOAT:</string>
+    <string name="destino">Destino:</string>
+    <string name="button_Entrance_text">Entrada</string>
+    <string name="button_Exit_text">Salida</string>
+    <string name="arrival">Arrival Date: </string>
+    <string name="days">Days at site: </string>
+</resources>
