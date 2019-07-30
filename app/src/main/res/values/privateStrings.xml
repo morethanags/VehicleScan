@@ -1,4 +1,4 @@
 <resources>
-     <string name="service_url">http://plngmelas08.plng.pvt/PlantDataAccessMobile</string>
-    <!-- <string name="service_url">http://dmoran.plng.pvt/PlantDataAccessMobile</string>-->
+     <string name="service_url">http://wsprd.perulng.com/PlantDataAccessMobile</string>
+    <!-- <string name="service_url">http://plngmelas42.plng.pvt/PlantDataAccessMobile</string>-->
  </resources>
